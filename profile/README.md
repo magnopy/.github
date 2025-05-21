@@ -1,5 +1,5 @@
-# .github
 
-Welcome to the magnopy.
+
+# Welcome to the magnopy.
 
 Please visit magnopy.org to find out more
